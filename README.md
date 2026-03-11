@@ -10,7 +10,7 @@ Premium frontend shell and design direction for the wider Skill OS ecosystem.
 
 - Presentation layer for the portfolio-style engineering system
 - Neighbor to `project-universe`
-- Consumer of platform narratives from `master-platform`
+- Consumer of platform narratives from `orbit`
 
 ## Status
 
@@ -49,7 +49,7 @@ npm run typecheck
 ## Related repositories
 
 - `project-universe`
-- `master-platform`
+- `orbit`
 - `skill-navigator-pro` style work in the broader portfolio
 
 ## Future direction
