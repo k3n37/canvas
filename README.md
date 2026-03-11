@@ -1,15 +1,15 @@
-# skill-os-ui
+# canvas
 
 Premium frontend shell and design direction for the wider Skill OS ecosystem.
 
 ## Mission
 
-`skill-os-ui` exists to make the engineering ecosystem legible. It is the UI layer for turning systems, repositories, skills, and architecture into a polished product experience.
+`canvas` exists to make the engineering ecosystem legible. It is the UI layer for turning systems, repositories, skills, and architecture into a polished product experience.
 
 ## Role in the ecosystem
 
 - Presentation layer for the portfolio-style engineering system
-- Neighbor to `project-universe`
+- Neighbor to `cosmos`
 - Consumer of platform narratives from `orbit`
 
 ## Status
@@ -25,7 +25,7 @@ Starter UI repository with a small component scaffold and architecture notes.
 ## Structure
 
 ```text
-skill-os-ui/
+canvas/
 ├── docs/
 │   └── ui-architecture.md
 ├── src/
@@ -48,7 +48,7 @@ npm run typecheck
 
 ## Related repositories
 
-- `project-universe`
+- `cosmos`
 - `orbit`
 - `skill-navigator-pro` style work in the broader portfolio
 
